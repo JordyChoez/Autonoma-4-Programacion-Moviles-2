@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3760854491",
+    "project_id": "aplicacion-3-jordychoez",
+    "storage_bucket": "aplicacion-3-jordychoez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3760854491:android:99adf676a4f3401e0983fe",
+        "android_client_info": {
+          "package_name": "com.example.aplicacion_3_jordychoez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDodpwGyrNa8O8Ck0Lfg4yGAXONNhLtaxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
